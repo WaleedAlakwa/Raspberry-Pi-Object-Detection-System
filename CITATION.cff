@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this repository in academic work, please consider citing it. The MIT License does not require academic citation."
+title: "Raspberry Pi Object Detection System"
+authors:
+  - family-names: "Alakwa"
+    given-names: "Waleed"
+repository-code: "https://github.com/WaleedAlakwa/Raspberry-Pi-Object-Detection-System"
+license: "MIT"

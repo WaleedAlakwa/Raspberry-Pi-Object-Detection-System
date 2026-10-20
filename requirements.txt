@@ -1,0 +1,7 @@
+# Third-party Python packages imported by the supplied code.py.
+# Versions are unpinned because the original development versions are unknown.
+# Raspberry Pi OS versions may require platform-specific OpenCV installation.
+numpy
+opencv-python
+Pillow
+matplotlib
